@@ -3,11 +3,21 @@
     padding: 0;
 }
 
+
 .baground{
     background: #f8f9fa;
-    height: 1000px;
+    height: 1250px;
+    width: auto;
+    margin-left: 0px;
+    margin-right: 0px;
+    flex-wrap: wrap;
 }
 
+.body-stretch {
+    margin-left: 0px;
+    margin-right: 0px;
+
+}
 .header {
     padding: 43px;
 
@@ -22,4 +32,8 @@
 .header-text-two {
 
 text-align: center;
+}
+
+.text-row {
+    padding-top: 24px
 }

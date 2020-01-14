@@ -2,3 +2,24 @@
     margin: 0;
     padding: 0;
 }
+
+.baground{
+    background: #f8f9fa;
+    height: 1000px;
+}
+
+.header {
+    padding: 43px;
+
+}
+
+.header-logo {
+    height: 86px;
+    width: auto;
+
+}
+
+.header-text-two {
+
+text-align: center;
+}

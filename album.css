@@ -2,3 +2,25 @@
     margin: 0;
     padding: 0;
 }
+
+
+.row-cards{
+    max-width: 783px;
+}
+body{
+    background-color: rgb(203, 203, 206);
+}
+.row-header{
+    height: 300px;
+}
+
+.navbar a {
+    color: rgb(145, 172, 229);
+}
+.navbar a:hover {
+    color: rgb(179, 205, 235);
+}
+.back-to-top a {
+    float: right;
+    color: rgb(145, 172, 229);
+}

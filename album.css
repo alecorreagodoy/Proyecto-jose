@@ -8,7 +8,7 @@
     max-width: 783px;
 }
 body{
-    background-color: rgb(203, 203, 206);
+    background-color: rgb(225, 228, 192);
 }
 .row-header{
     height: 300px;
@@ -23,4 +23,12 @@ body{
 .back-to-top a {
     float: right;
     color: rgb(145, 172, 229);
+}
+.row-header{
+    background-image:url(img/fondo.jpg);
+    background-size: cover;
+}
+
+.footer{
+    height: 70px;
 }
